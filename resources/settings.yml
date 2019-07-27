@@ -1,0 +1,16 @@
+ID-Item-Ticket: 339
+ID-Meta-Ticket: 0
+CustomName-Ticket: "§eLotto Ticket | §bNumber: {LOTTONUMBER}"
+Lore-Ticket: "§o§aWaiting For Lotto Start, If Your Lotto Ticket Number Match With The Number Of The Prize!\n§a§oYou Will Earn Money With The Prize!!"
+Cost-One-Ticket: 15000
+Msg-Help: "§eLotto Commands\n§b- §a/lotto buy <ammount>"
+Msg-Help-Commands-Buy: "§a/lotto buy <ammount>"
+Msg-Ammount-Must-Be-Numberic: "§cAmmount must be numberic!"
+Lotto-Time-Minutes: 3
+Lotto-Starting-In-2-Minutes: "§aLotto Will Start In 2 Minutes!"
+Lotto-Starting-In-1-Minutes: "§aLotto Will Start In 2 Minutes!"
+Lotto-Starting-In-5-Seconds: "§aLotto Will Start In 5 Seconds!"
+Lotto-Starting-In-4-Seconds: "§aLotto Will Start In 4 Seconds!"
+Lotto-Starting-In-3-Seconds: "§aLotto Will Start In 3 Seconds!"
+Lotto-Starting-In-2-Seconds: "§aLotto Will Start In 2 Seconds!"
+Lotto-Starting-In-1-Seconds: "§aLotto Will Start In 1 Seconds!"

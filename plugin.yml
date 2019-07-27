@@ -1,0 +1,9 @@
+name: LottoSystem
+api: 3.0.0
+version: 0.1
+main: LousWiteMC\Lotto\Lotto
+author: LousWiteMC
+commands:
+ lotto:
+  usage: /lotto
+  description: Lotto Commands!
